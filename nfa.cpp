@@ -98,7 +98,7 @@ int main() {
         break;
       }
       else {
-        cout << "The string " << " '" << inputString << "' " << "is REJECTED by the NFA" << endl;
+        cout << "The string " << " '" << inputString << "' " << "is ACCEPTED by the NFA" << endl;
         break;
       }
   }
